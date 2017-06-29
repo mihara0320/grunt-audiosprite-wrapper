@@ -1,0 +1,17 @@
+{
+  "name": "grunt-audiosprite-wrapper",
+  "version": "1.0.0",
+  "description": "Grunt wrapper for the Node package audiosprite",
+  "author": "Masaki ",
+  "license": "ISC",
+  "keywords": [
+    "audiosprite",
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "audiosprite": "^0.6.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
